@@ -22,3 +22,15 @@
 ## ตัวอย่างหน้าแอพพริเคชั่น
 ### หน้าล็อคอิน
 ![Login Page](/assets/login.png)
+
+### หน้าสมัครสมาชิก
+![Register Page](/assets/register.png)
+
+### หน้าหลัก
+![Munu Page](/assets/menu.png)
+
+### หน้าเขียนใบสั่ง
+![violation Page](/assets/payticket.png)
+
+### หน้าติดตามผู้ที่ยังไม่ได้ชำระค่าใบสั่ง
+![violation Page](/assets/unpaid.png)
