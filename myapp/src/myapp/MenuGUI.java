@@ -140,7 +140,7 @@ public class MenuGUI extends javax.swing.JFrame {
         });
 
         jButton5.setBackground(new java.awt.Color(255, 102, 102));
-        jButton5.setFont(new java.awt.Font("PT Sans", 1, 18)); // NOI18N
+        jButton5.setFont(new java.awt.Font("PT Sans", 1, 18)); // NOI18
         jButton5.setForeground(new java.awt.Color(255, 255, 255));
         jButton5.setText("Display System Account");
         jButton5.addActionListener(new java.awt.event.ActionListener() {
