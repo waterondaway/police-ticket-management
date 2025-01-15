@@ -1,7 +1,7 @@
 # Police Ticket Management
 
 ## Project Description  
-Re-upload of a Police Ticket Management System project developed using Java ☕ with a user-friendly GUI interface 🖥️. This system simplifies traffic ticket issuance 🚓, payment processing 💳, and tracking 📋, while also managing driver license issuance and renewal 🪪. It integrates with MySQL 🗄️ for reliable and efficient data management.  
+Re-upload of a **Police Ticket Management System** project developed using Java ☕ with a user-friendly GUI interface 🖥️. This system simplifies traffic ticket issuance 🚓, payment processing 💳, and tracking 📋, while also managing driver license issuance and renewal 🪪. It integrates with MySQL 🗄️ for reliable and efficient data management.  
 
 ## Features  
 
