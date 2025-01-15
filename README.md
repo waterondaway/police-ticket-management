@@ -1,36 +1,31 @@
-# Police Ticket Management System
+# Police Ticket Management
 
-พัฒนาแอพพริเคชั่นด้วยภาษา Java และเก็บข้อมูลใน phpMyAdmin
-## Features
+## Project Description  
+Re-upload of a Police Ticket Management System project developed using Java ☕ with a user-friendly GUI interface 🖥️. This system simplifies traffic ticket issuance 🚓, payment processing 💳, and tracking 📋, while also managing driver license issuance and renewal 🪪. It integrates with MySQL 🗄️ for reliable and efficient data management.  
 
-- **ระบบสมัครสมาชิก**: 
-  - เก็บข้อมูล Email, Password, ชื่อ-นามสกุล, เพช ลงฐานข้อมูล
-- **ระบบล็อคอิน**:
-  - ตรวจสอบ Email, Password ที่เก็บในฐานข้อมูล ว่าตรวงกับที่ Input มาไหม ถ้าตรงก็เข้าสู่ระบบใช้งานถ้าไม่ตรงจะไม่สามารถเข้าสู่ระบบได้
-- **Ticket Status Management**:
-  - ติดตามสถานะของใบสั่งจราจร สามารถดูได้ว่ามีใบสั่งทั้งหมดเท่าไหร่และจ่ายไปแล้วหรือยัง
-- **License Violation**:
-  - ระบบเขียนมบสั่งโดยตำรวจสามารถใส่ข้อมูลผู้กระทำผิดพร้อมที่อยู่ได้และจะติดตามสถานะการชำระเงิน
+## Features  
 
-## Technologies Used
+### Officer Functions  
+- **Issue a Ticket**: Allows officers to issue tickets for traffic violations with ease.  
+- **Show Unpaid Tickets**: Displays a list of unpaid tickets for tracking and follow-up.  
+- **Create Driver License**: Enables officers to issue or renew driver licenses by accessing the database.  
 
-- **FontEnd**: 
-  - Java (Net-Beans)
-- **Database**: 
-  - phpMyAdmin
-  
-## ตัวอย่างหน้าแอพพริเคชั่น
-### หน้าล็อคอิน
-![Login Page](/assets/login.png)
+## Functions Examples  
 
-### หน้าสมัครสมาชิก
-![Register Page](/assets/register.png)
+### Officer Functions Examples  
+<img src="assets/image/issue_a_ticket.png" width="300" height="200" />
+<img src="assets/image/ticket_pay_function.png" width="300" height="200" />
 
-### หน้าหลัก
-![Munu Page](/assets/menu.png)
+## File Structure  
+- **`myapp`**: The source code for the Police Ticket Management System.  
 
-### หน้าเขียนใบสั่ง
-![violation Page](/assets/payticket.png)
+## Setup Instructions  
 
-### หน้าติดตามผู้ที่ยังไม่ได้ชำระค่าใบสั่ง
-![violation Page](/assets/unpaid.png)
+### Prerequisites  
+- NetBeans  
+
+### Compilation and Execution  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/waterondaway/police_ticket_management.git
+   cd police_ticket_management
